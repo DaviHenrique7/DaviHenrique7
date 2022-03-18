@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DaviHenrique7
+- 👀 I’m interested in hacking, web development and information security
+- 🌱 I’m currently learning javascript, react, CSS
+- 📫 How to reach me ... https://www.instagram.com/davihmaia_/
